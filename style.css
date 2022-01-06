@@ -8,4 +8,40 @@ body{
 h1{
     font-weight: 700;
     
+    
+    
+}
+#foc-text{
+    margin-bottom: 40px;
+}
+
+a{
+
+    color:white;
+    text-decoration: none;
+   
+    background-color: brown;
+    padding: 10px 20px;
+    border-radius: 10px;
+    
+   
+    
+}
+section{
+    display: flex;
+}
+.half-width{
+    
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 10%;
+    
+}
+.half-width img{
+    width: 70%;
+   
+
+}
+#marg-down{
+    margin-top: 50px;
 }
