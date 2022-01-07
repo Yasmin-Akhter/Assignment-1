@@ -3,10 +3,12 @@
 }
 body{
     font-family: 'poppins', sans-serif;
+    padding-left: 5%;
+    padding-top: 10%;
 }
 
 h1{
-    font-family: 'Noto Serif', serif;
+    font-family: 'Playfair Display', serif;
     border-left: 3px solid brown;
     font-weight: 700px;
   font-size: 50px;
@@ -38,8 +40,7 @@ section{
 .half-width{
     
     width: 50%;
-    padding-left: 5%;
-    padding-top: 10%;
+    
     
 }
 .half-width img{
@@ -47,7 +48,7 @@ section{
    
 
 }
-#margin-in-top{
+#top-margin-scroll{
     margin-top: 50px;
 }
 .heading-text{
