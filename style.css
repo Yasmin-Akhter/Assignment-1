@@ -5,6 +5,7 @@ body{
     font-family: 'poppins', sans-serif;
     padding-left: 5%;
     padding-top: 10%;
+    padding-right: 5%;
 }
 
 h1{
@@ -36,6 +37,7 @@ a{
 
 section{
     display: flex;
+    margin-bottom: 40px;
 }
 .half-width{
     
@@ -54,4 +56,7 @@ section{
 .heading-text{
     text-align: center;
     font-size: 36px;
+}
+.third-part{
+margin-top: 60px;
 }
