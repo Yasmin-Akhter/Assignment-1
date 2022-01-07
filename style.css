@@ -76,6 +76,14 @@ padding-right: 200px;
     width: 80%;
     border-radius: 20px;
 }
+.bonus-part{
+    margin: 10%;
+}
+.bonus-text{
+    color: firebrick;
+    text-align: center;
+    margin-top: 60px;
+}
 footer h2{
     font-family: 'Lobster', cursive;
 }
