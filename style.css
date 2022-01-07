@@ -3,9 +3,7 @@
 }
 body{
     font-family: 'poppins', sans-serif;
-    padding-left: 5%;
-    padding-top: 10%;
-    padding-right: 5%;
+    padding: 40px;
 }
 
 h1{
@@ -51,12 +49,40 @@ section{
 
 }
 #top-margin-scroll{
-    margin-top: 50px;
+    margin-top: 20px;
 }
 .heading-text{
     text-align: center;
     font-size: 36px;
 }
+.mission-area{
+    background-color: rgb(228, 247, 250);
+    box-shadow: 10px 10px 10px grey;
+    width: 25%;
+    margin-left: 2%;
+    margin-right:2%;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.mission-area img{
+    width: 30%;
+
+}
 .third-part{
-margin-top: 60px;
+margin-top: 80px;
+padding-right: 200px;
+}
+.third-part img{
+    width: 80%;
+    border-radius: 20px;
+}
+footer h2{
+    font-family: 'Lobster', cursive;
+}
+footer{
+    color: white;
+    padding: 40px;
+    text-align: center;
+    background-color: black;
+    
 }
