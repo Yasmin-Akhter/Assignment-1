@@ -1,20 +1,23 @@
-#orange-text{
+.orange-text{
     color:firebrick;
 }
 body{
-    
-    font-family: 'Noto Serif', serif;
+    font-family: 'poppins', sans-serif;
 }
+
 h1{
+    font-family: 'Noto Serif', serif;
     border-left: 3px solid brown;
     font-weight: 700px;
   font-size: 50px;
   padding-left: 10px;
 }
 #foc-text{
+    
     margin-bottom: 40px;
     
 }
+
 
 a{
 
@@ -44,6 +47,10 @@ section{
    
 
 }
-#marg-down{
+#margin-in-top{
     margin-top: 50px;
+}
+.heading-text{
+    text-align: center;
+    font-size: 36px;
 }
